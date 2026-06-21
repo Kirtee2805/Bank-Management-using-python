@@ -1,0 +1,42 @@
+[
+  {
+    "name": "kirtee pitroda",
+    "age": 19,
+    "email": "kirtee@gmail.com",
+    "pin": 4562,
+    "account": 1234,
+    "balance": 0
+  },
+  {
+    "name": "Harsh pitroda",
+    "age": 25,
+    "email": "harsh@gmail.com",
+    "pin": 1234,
+    "account": "6R@",
+    "balance": 6000
+  },
+  {
+    "name": "bhoomi",
+    "age": 45,
+    "email": "bhoomi@gmail.com",
+    "pin": 4569,
+    "account": "Q5!",
+    "balance": 0
+  },
+  {
+    "name": "disha",
+    "age": 42,
+    "email": "disha@gmail.com",
+    "pin": 4562,
+    "account": "bt8NSb*",
+    "balance": 0
+  },
+  {
+    "name": "kirtee pitroda",
+    "age": 21,
+    "email": "kirteepitroda@gmail.com",
+    "pin": 1234,
+    "account": "zm^9MTa",
+    "balance": 0
+  }
+]
